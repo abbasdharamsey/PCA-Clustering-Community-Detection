@@ -1,0 +1,23 @@
+
+Question 1
+----------
+
+Number of nodes: 61
+Number of edges: 270 
+
+Question 2
+----------
+
+Number of connected components: 3
+Number of nodes in largest component: 40 
+
+Question 3
+----------
+
+Number of communities: 5
+Communities:
+   1: [769, 747, 708, 774, 840, 713, 719, 856, 772, 805, 800, 869, 745, 810, 811, 880, 753, 819, 823, 697, 890, 828, 830, 703]
+   2: [870, 871, 879, 881, 858, 895]
+   3: [804, 876, 878, 888, 753, 882, 886, 729, 856, 889, 861, 863]
+   4: [867, 872, 873, 874, 877, 776, 885, 887]
+   5: [857, 868, 862, 865]
